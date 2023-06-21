@@ -26,3 +26,4 @@ if button:
         st.subheader(f'{i}. 행운의 번호: :green[{generate_lotto()}]')
     st.write(f"생성된 시각: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}")
 
+<h1>11<h1>
